@@ -1,11 +1,6 @@
 # 👋 Hi there, I'm Satyanarayana Reddy!
 A passionate **Full-Stack Developer** with a strong love for building web applications using the latest technologies. I enjoy working on both the front-end and back-end, creating seamless and interactive user experiences. 😄  
-**chongalajaiteja**  
 
-📊 **Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=satyanarayanareddy25&color=brightgreen&style=flat-square)
-
----
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **DevOps**  
@@ -44,14 +39,3 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyanarayanareddy25&layout=compact&theme=radical)
 
 ---
-
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=satyanarayanareddy25&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=satyanarayanareddy25&theme=radical)](https://git.io/streak-stats)
-
----
-
