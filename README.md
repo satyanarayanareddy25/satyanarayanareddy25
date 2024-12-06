@@ -10,14 +10,14 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ## 🚀 About Me
 - 🌱 I’m currently learning **DevOps**  
 - 💬 Ask me about **Data Structures,AWS Cloud Services**  
-- 📫 How to reach me: [chongalateja1234@gmail.com](mailto:satyanarayana.reddy.0504@gmail.com)
+- 📫 How to reach me: [satyanarayana.reddy.0504@gmail.com](mailto:satyanarayana.reddy.0504@gmail.com)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/satya170/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyanarayanareddy25/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/21341A0504)  
 
 ---
 
