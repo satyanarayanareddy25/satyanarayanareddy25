@@ -35,7 +35,10 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyanarayanareddy25&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyanarayanareddy25&layout=compact&theme=radical)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyanarayanareddy25&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyanarayanareddy25&layout=compact&theme=github_dark" width="48%"/>
+</div>
 
 ---
