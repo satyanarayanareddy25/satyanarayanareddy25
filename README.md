@@ -33,13 +33,4 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyanarayanareddy25&show_icons=true&theme=github_dark" width="48%" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyanarayanareddy25&layout=compact&theme=github_dark" width="48%" height="200"/>
-</div>
-
-
 ---
