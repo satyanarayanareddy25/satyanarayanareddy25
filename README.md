@@ -33,4 +33,3 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
----
