@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Satyanarayana Reddy!
-A passionate **Full-Stack Developer** with a strong love for building web applications using the latest technologies. I enjoy working on both the front-end and back-end, creating seamless and interactive user experiences. 😄  
+# 🚀 Full-Stack Developer | DevOps Enthusiast | Data Analytics
+Hi! I'm **Satyanarayana Reddy**, a passionate Full-Stack Developer who enjoys crafting end-to-end web applications and working with modern cloud and DevOps tools. I bring a solid foundation in both development and operations, and I love turning ideas into scalable solutions.
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **DevOps**  
-- 💬 Ask me about **Data Structures,AWS Cloud Services**  
+- 🌱 I’m currently learning **Pyspark, Hadoop**  
+- 💬 Ask me about **Data Structures,AWS Cloud Services, Big Data**  
 - 📫 How to reach me: [satyanarayana.reddy.0504@gmail.com](mailto:satyanarayana.reddy.0504@gmail.com)
 
 ---
