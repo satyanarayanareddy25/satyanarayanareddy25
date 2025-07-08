@@ -1,5 +1,5 @@
-# 🚀 Full-Stack Developer | DevOps Enthusiast | Data Analytics
-Hi! I'm **Satyanarayana Reddy**, a passionate Full-Stack Developer who enjoys crafting end-to-end web applications and working with modern cloud and DevOps tools. I bring a solid foundation in both development and operations, and I love turning ideas into scalable solutions.
+# 🚀 Data Analytics | DevOps Enthusiast
+Hi! I'm ***Satyanarayana Reddy***, a tech enthusiast passionate about automating infrastructure, optimizing workflows, and deriving insights from data. I enjoy working across cloud platforms, DevOps pipelines, and data analytics projects using modern tools and technologies.
 
 
 ## 🚀 About Me
