@@ -18,7 +18,6 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +25,6 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,7 +33,6 @@ A passionate **Full-Stack Developer** with a strong love for building web applic
 ![HDFS](https://img.shields.io/badge/-HDFS-FF6D00?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Unix](https://img.shields.io/badge/-Unix-003B57?style=for-the-badge&logo=gnubash&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=aws&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
